@@ -10,3 +10,11 @@
 - Data in Machine Learning
 - Data Wrangling, Handling Missing Values, Dropping duplicates
 
+# Day 2 - 28 July, 2023
+- Understaning outliers
+- Detecting Outliers
+- Handling Outliers
+- Data Transformation
+- Data Validation
+- Data Formatting
+- Standardization
