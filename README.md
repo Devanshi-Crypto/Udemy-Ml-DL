@@ -18,3 +18,12 @@
 - Data Validation
 - Data Formatting
 - Standardization
+
+# Day 3 - 29 July, 2023
+- Feature Selection Techniques 
+- Prediction of class of new Data
+- Why Feature Scaling
+- Absolute Maximum Scaling
+- Min Max Absolute Scaling
+- Normalization vs Standardization
+- Data Normalization using Pandas-1
