@@ -27,3 +27,13 @@
 - Min Max Absolute Scaling
 - Normalization vs Standardization
 - Data Normalization using Pandas-1
+
+# Day 4 - 30 July, 2023
+### Learning how basic machine learning prediction works using example of Car Sales Prediction using ANN - I
+- What is ANN?
+- Neuron Mathematical Model
+- Hidden Layers
+- Back Propogation
+- Neuron Model Matrix Representaion
+- Types of ANN
+
