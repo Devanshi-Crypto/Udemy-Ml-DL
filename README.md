@@ -36,3 +36,4 @@
 - Back Propogation
 - Neuron Model Matrix Representaion
 - Types of ANN
+
