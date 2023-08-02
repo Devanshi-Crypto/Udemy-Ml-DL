@@ -29,7 +29,7 @@
 - Data Normalization using Pandas-1
 
 # Day 4 - 30 July, 2023
-### Learning how basic machine learning prediction works using example of Car Sales Prediction using ANN - I
+## Learning how basic machine learning prediction works using example of Car Sales Prediction using ANN - I
 - What is ANN?
 - Neuron Mathematical Model
 - Hidden Layers
@@ -37,3 +37,5 @@
 - Neuron Model Matrix Representaion
 - Types of ANN
 
+# Day 5 - 31 July,2023
+## Implementing a Linear Regression model for Car Sales Prediction using ANN
