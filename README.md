@@ -146,3 +146,6 @@ Metrics used to evaluate the model's performance and the results obtained.
 - Streamlit is an opensource Machine Learning and Data Science framework which helps one to make interactive web apps faster.
 - I made a Streamlit app for my main and final project - Movie Recommendation System.
 - User can input their favourite movies, give it some rating as per their liking betweena range of 1-5 and my model will list some of the best movies as per user's taste.
+
+  ![image](https://github.com/Devanshi-Crypto/Udemy-Ml-DL/assets/76578430/f0d867f7-3a47-4d74-bf36-dfc03b2bff18)
+![image](https://github.com/Devanshi-Crypto/Udemy-Ml-DL/assets/76578430/4b4f800b-88ed-4df9-9dfa-de6531499965)
